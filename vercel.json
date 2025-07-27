@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm install --legacy-peer-deps && npm run build",
+  "ignoreCommand": "echo 'Skipping Sanity CLI files'",
+  "outputDirectory": ".next"
+}
